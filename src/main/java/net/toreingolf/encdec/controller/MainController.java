@@ -123,6 +123,7 @@ public class MainController {
                 .append("</td><td valign=\"top\">")
                 .append("<input type=\"submit\" value=\"Go\">")
                 .append("</table></form>")
+                .append("<script language=\"JavaScript\">document.forms[0].elements[0].focus();</script>")
         ;
     }
 
