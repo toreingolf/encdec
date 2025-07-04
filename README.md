@@ -11,3 +11,5 @@ optionally zipping the content before encoding and unzipping after decoding.
 
 ### More information
 https://en.wikipedia.org/wiki/Base64
+
+.
